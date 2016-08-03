@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #FED701;
+}
+
+nav ul {
+	list-style: none;
+}
+
+header a {
+	text-decoration: none;
+}
+
+nav li {
+	float: right;
+	padding: 20px 15px;
+}
+
+header a:hover{
+	color: #FFB400;
+	background-color: #EFDB95;
+}
